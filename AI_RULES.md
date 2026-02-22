@@ -1,4 +1,5 @@
-# AI Development Rules
+hfghfg
+
 
 This document outlines the technology stack and specific library usage guidelines for this Next.js application. Adhering to these rules will help maintain consistency, improve collaboration, and ensure the AI assistant can effectively understand and modify the codebase.
 
