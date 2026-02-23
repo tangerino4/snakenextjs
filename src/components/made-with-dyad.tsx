@@ -5,9 +5,9 @@ export const MadeWithDyad = () => {
         href="https://www.dyad.sh/"
         target="_blank"
         rel="noopener noreferrer"
-        className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
+        className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" 
       >
-        Hi world hfghfg hi f
+        Hi world hfghfg hi f a
       </a>
     </div>
   );
